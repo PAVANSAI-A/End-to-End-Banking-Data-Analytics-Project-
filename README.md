@@ -64,13 +64,13 @@ This project focuses on analyzing banking data to:
 ## 📊 Dashboard
 
 ### 🏠 Home Dashboard
-
+Home Dashboard.png
 
 ### 💰 Loan Analysis
-![Loan](images/loan_analysis.png)
+Loan Analysis.png
 
 ### 🏦 Deposit Analysis
-![Deposit](images/deposit_analysis.png)
+Deposit Analysis.png
 
 ---
 
