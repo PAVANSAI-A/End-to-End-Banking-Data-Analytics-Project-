@@ -64,13 +64,13 @@ This project focuses on analyzing banking data to:
 ## 📊 Dashboard
 
 ### 🏠 Home Dashboard
-https://github.com/PAVANSAI-A/End-to-End-Banking-Data-Analytics-Project-/blob/277a6f55dc7ac79315b5edf15d3bc153eadf1e8f/Home%20Dashboard.png
+![Home](https://github.com/PAVANSAI-A/End-to-End-Banking-Data-Analytics-Project-/blob/277a6f55dc7ac79315b5edf15d3bc153eadf1e8f/Home%20Dashboard.png)
 
 ### 💰 Loan Analysis
-https://github.com/PAVANSAI-A/End-to-End-Banking-Data-Analytics-Project-/blob/bc8b031e61ac77c0443389a751690cb4d11e22fc/Home%20Dashboard.png
+![Loan Analysis](https://github.com/PAVANSAI-A/End-to-End-Banking-Data-Analytics-Project-/blob/bc8b031e61ac77c0443389a751690cb4d11e22fc/Home%20Dashboard.png)
 
 ### 🏦 Deposit Analysis
-https://github.com/PAVANSAI-A/End-to-End-Banking-Data-Analytics-Project-/blob/a3efb95448a204ad4eba5b04f65bb061303e42af/Deposit%20Analysis.png
+![Deposit Analysis](https://github.com/PAVANSAI-A/End-to-End-Banking-Data-Analytics-Project-/blob/a3efb95448a204ad4eba5b04f65bb061303e42af/Deposit%20Analysis.png)
 
 ---
 
