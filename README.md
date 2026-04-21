@@ -70,7 +70,7 @@ https://github.com/PAVANSAI-A/End-to-End-Banking-Data-Analytics-Project-/commit/
 https://github.com/PAVANSAI-A/End-to-End-Banking-Data-Analytics-Project-/blob/bc8b031e61ac77c0443389a751690cb4d11e22fc/Home%20Dashboard.png
 
 ### 🏦 Deposit Analysis
-Deposit Analysis.png
+https://github.com/PAVANSAI-A/End-to-End-Banking-Data-Analytics-Project-/blob/a3efb95448a204ad4eba5b04f65bb061303e42af/Deposit%20Analysis.png
 
 ---
 
