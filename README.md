@@ -64,7 +64,7 @@ This project focuses on analyzing banking data to:
 ## 📊 Dashboard
 
 ### 🏠 Home Dashboard
-Home Dashboard.png
+https://github.com/PAVANSAI-A/End-to-End-Banking-Data-Analytics-Project-/commit/c95ff823252a394c46f11c54916a744d977e8759
 
 ### 💰 Loan Analysis
 Loan Analysis.png
