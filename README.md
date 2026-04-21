@@ -91,19 +91,6 @@ This project focuses on analyzing banking data to:
 
 ---
 
-## 📁 Project Structure
-
-```bash
-Banking-Data-Analytics-Project/
-│── data/
-│── notebooks/
-│── dashboard/
-│── images/
-│── README.md
-```
-
----
-
 ## 👨‍💻 Author
 
 **Pavan Sai Allanki**  
